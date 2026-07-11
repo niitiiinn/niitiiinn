@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 - 🎓 MCA student at **Panjab University, Chandigarh**
 - 📊 Building a hands-on **data analytics portfolio** — EDA, SQL, Power BI dashboards
-- 💻 Also sharpening **DSA in Java**, working toward SDE roles at product companies
-- 🩺 Interested in applying analytics to **healthcare and payment-integrity** style problems
+- 💻 Also sharpening **DSA in Java**, will work toward SDE roles at product companies
 - 🌱 Currently exploring: query optimization, dashboard storytelling, and Java fundamentals for interviews
 
 ---
@@ -62,19 +61,5 @@ Cleaned a 10K+ row grocery inventory dataset and wrote SQL queries to uncover be
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=niitiiinn&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niitiiinn&layout=compact&hide_border=true" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 <p align="center"><i>Open to SDE and Data Analyst opportunities — let's build something great together.</i></p>
